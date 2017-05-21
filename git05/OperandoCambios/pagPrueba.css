@@ -1,9 +1,21 @@
 h1 {
-	background-color: red;
-	font-style: italic;
+    background-color: red;
+    font-style: italic;
 }
 
-
-#parrafo2{
-	background-color: blue;
+#parrafo1 {
+	background-color:#59E166;
 }
+
+#parrafo2 {
+    background-color: blue;
+}
+
+#foter {
+    background-color: yellow;
+	border-style: solid;
+	border-width: 2px;
+	border-color: green;
+	text-align: center;
+}
+
